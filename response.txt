@@ -1,0 +1,1449 @@
+{
+    "signature": 83,
+    "sizeOptPart": {
+        "payloadLength": 414,
+        "id": true,
+        "encryptPayload": false,
+        "acknowledge": false,
+        "typeIndex": true,
+        "compilationPayload": true
+    },
+    "id": 166543,
+    "typeIndexPart": {
+        "packetType": 3,
+        "packetIndex": 0
+    },
+    "payloadPart": [
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:12:51",
+                "messageIndex": 1183,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 31,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 182,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 7,
+                "longitude": 1000417386,
+                "width": 2144425473
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:12:52",
+                "messageIndex": 1183,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 28,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 172,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 8,
+                "longitude": 1000417227,
+                "width": 2144425155
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:12:55",
+                "messageIndex": 1183,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 28,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 191,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 6,
+                "longitude": 1000417108,
+                "width": 2144426110
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:12:57",
+                "messageIndex": 3487,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 32,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 7,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": null,
+            "fuelLevelSensor": null,
+            "gsmConnection": null,
+            "inputsStatusAdc": null,
+            "mileage": null,
+            "powerBk": null,
+            "temperatureFuelLevelSensor": null
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:13:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 5,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:14:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 8,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:15:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 7,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:16:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 6,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:17:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 5,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:18:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 6,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:19:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 5,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:20:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 5,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:21:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 5,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:22:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 5,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:23:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 9,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 412,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:24:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 14,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 409,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:25:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 8,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 410,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:26:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 8,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 411,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:27:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 10,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 411,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:28:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 9,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 411,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:29:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 11,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 411,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:30:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 7,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 411,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:31:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 9,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 411,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:32:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 10,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 411,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:33:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 10,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 0,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 411,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:34:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 13,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 1249,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 418,
+                "ignition": false
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:35:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 12,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 1251,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 421,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:36:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 13,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 1252,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 421,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        },
+        {
+            "telemetry": {
+                "messageTime": "2023-12-08T06:37:57",
+                "messageIndex": 1695,
+                "messageCode": 12
+            },
+            "basicLocationData": {
+                "speed": 0,
+                "hemispheresWidth": false,
+                "hemispheresLongitude": false,
+                "course": 223,
+                "stopSign": 0,
+                "high": 0,
+                "highSign": false,
+                "satellites": 13,
+                "longitude": 1000416193,
+                "width": 2144426189
+            },
+            "digitalInputsBk": {
+                "inputBkFlags": "0"
+            },
+            "fuelLevelSensor": {
+                "value": [
+                    65535,
+                    65535
+                ]
+            },
+            "gsmConnection": null,
+            "inputsStatusAdc": {
+                "value": [
+                    0
+                ]
+            },
+            "mileage": null,
+            "powerBk": {
+                "boardVoltage": 1253,
+                "lowVoltageSighBk": false,
+                "lowVoltageSighAkb": false,
+                "energyStatus": 0,
+                "evacuationSigh": false,
+                "akbBkVoltage": 421,
+                "ignition": true
+            },
+            "temperatureFuelLevelSensor": {
+                "value": [
+                    128,
+                    128
+                ]
+            }
+        }
+    ],
+    "crcPart": {
+        "controlSum": 61986,
+        "checkControlSum": false
+    },
+    "acknowledge": null
+}
